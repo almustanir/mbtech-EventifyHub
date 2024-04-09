@@ -21,3 +21,5 @@ export const connectToDatabase = async () => {
 
 //server actions
 //connectToDatabase() ...
+
+//mongodb+srv://almustanirbillahi01:almustanir01@cluster0.ckadhwc.mongodb.net/
