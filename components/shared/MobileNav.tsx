@@ -36,7 +36,6 @@ const MobileNav = () => {
 
                 </SheetContent>
             </Sheet>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur impedit temporibus, facere dignissimos nam, odit libero voluptas eos, a quas illo beatae nulla suscipit tempore pariatur labore dolorum iure soluta?</p>
 
         </nav>
     )
