@@ -33,7 +33,7 @@ const MobileNav = () => {
                 />
                 <Separator className="border border-gray-50" />
                 <NavItems/>
-
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae molestias dolor cupiditate. Cum eius incidunt, itaque culpa laboriosam corrupti dicta consectetur temporibus velit non modi, error vitae ipsa. Vel, eligendi!</p>
                 </SheetContent>
             </Sheet>
 
