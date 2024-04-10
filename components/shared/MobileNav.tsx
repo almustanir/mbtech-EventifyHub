@@ -33,7 +33,7 @@ const MobileNav = () => {
                 />
                 <Separator className="border border-gray-50" />
                 <NavItems/>
-                     <h4>ljkbjvhaddvikcvbxnbhxvchvu ccndvhxnchcvn cbhdbsvvx</h4>
+                    
                 </SheetContent>
             </Sheet>
 
